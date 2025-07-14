@@ -30,4 +30,5 @@ ctk.CTkButton(card, text="Start", width=220, height=40, corner_radius=12,
 
 ctk.CTkLabel(card, text="OSSD PROJECT", font=("Arial", 12, "bold"),
              text_color="#888888").place(relx=0.5, y=380, anchor="center")
+
 window.mainloop()
